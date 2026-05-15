@@ -1,0 +1,25 @@
+.car-category-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.car-category-card {
+  width: 20rem;
+  margin: 1rem;
+  background-color: #fff;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.car-category-name {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.car-category-description {
+  font-size: 0.875rem;
+  margin-bottom: 1rem;
+}
